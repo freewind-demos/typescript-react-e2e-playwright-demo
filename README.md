@@ -1,7 +1,9 @@
-TypeScript React Hello World Demo
+TypeScript React E2E Playwright Demo
 =================================
 
-一个最简单的Typescript + react项目，使用了webpack
+使用playwright来写e2e测试。
+
+注意在playwright.config.ts中的配置，可以通过`webServer`来启动server
 
 ```
 npm install
